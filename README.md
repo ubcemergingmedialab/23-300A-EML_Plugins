@@ -89,8 +89,6 @@ To visit the EML website:
 If successful, your browser will open and take you to the EML website.
 
 ## Unreal Core Plugin
-This section lists all EML Unreal Engine features and how to utilize them.
-
 <a name="unreal-core-install"></a>
 ### Installation
 1. Download the Unreal Engine plugin from the [Builds folder](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/tree/main/EML_Plugins_Builds/EML_Plugins_Unreal) or clone this repository and open the Unreal Engine project in Unreal Engine 5.1 or newer to package the plugin manually.
