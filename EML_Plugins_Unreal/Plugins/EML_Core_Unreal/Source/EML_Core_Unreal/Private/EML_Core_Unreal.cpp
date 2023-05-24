@@ -47,8 +47,8 @@ void FEML_Core_UnrealModule::StartupModule()
 		FCanExecuteAction());
 
 	PluginCommands->MapAction(
-		FEML_Core_UnrealCommands::Get().CodingStandards,
-		FExecuteAction::CreateRaw(this, &FEML_Core_UnrealModule::CodingStandards),
+		FEML_Core_UnrealCommands::Get().CodingStyleguide,
+		FExecuteAction::CreateRaw(this, &FEML_Core_UnrealModule::CodingStyleguide),
 		FCanExecuteAction());
 
 	PluginCommands->MapAction(
@@ -144,7 +144,7 @@ void FEML_Core_UnrealModule::RegisterEMLMenus()
 	// If we use custom icons, the icons can be defined in the EML_Core_UnrealStyle.cpp file instead, and sections can be added with a single line like this
 	// Section.AddMenuEntryWithCommandList(FEML_Core_UnrealCommands::Get().GenerateEMLProjectStructure, PluginCommands);
 
-	Section.AddMenuEntryWithCommandList(FEML_Core_UnrealCommands::Get().CodingStandards,
+	Section.AddMenuEntryWithCommandList(FEML_Core_UnrealCommands::Get().CodingStyleguide,
 		PluginCommands,
 		TAttribute<FText>(),
 		TAttribute<FText>(),
@@ -235,10 +235,10 @@ void FEML_Core_UnrealModule::GenerateEMLProjectStructure()
 
 }
 
-void FEML_Core_UnrealModule::CodingStandards()
+void FEML_Core_UnrealModule::CodingStyleguide()
 {
 	// Got to our coding standards URL
-	UE_LOG(LogTemp, Log, TEXT("Redirecting to Coding Standards URL"));
+	UE_LOG(LogTemp, Log, TEXT("Redirecting to Coding Styleguide URL"));
 	FString url = "https://eml.ubc.ca";
 	FPlatformProcess::LaunchURL(*url, nullptr, nullptr);
 }

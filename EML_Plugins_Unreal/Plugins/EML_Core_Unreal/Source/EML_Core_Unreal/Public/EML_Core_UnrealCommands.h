@@ -21,6 +21,6 @@ public:
 public:
 	TSharedPtr< FUICommandInfo > OpenPluginWindow;
 	TSharedPtr< FUICommandInfo > GenerateEMLProjectStructure;
-	TSharedPtr< FUICommandInfo > CodingStandards;
+	TSharedPtr< FUICommandInfo > CodingStyleguide;
 	TSharedPtr< FUICommandInfo > ContactInformation;
 };

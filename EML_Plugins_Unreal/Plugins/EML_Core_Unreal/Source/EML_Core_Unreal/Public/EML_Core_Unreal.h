@@ -37,7 +37,7 @@ private:
 
 	//EML Actions
 	void GenerateEMLProjectStructure();
-	void CodingStandards();
+	void CodingStyleguide();
 	void ContactInformation();
 	void CreateGameInstance();
 	void SetGameInstanceToEMLGameInstance();
