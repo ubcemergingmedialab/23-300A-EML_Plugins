@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EML_Core_Unreal",
+	"Description": "Core Plugin for all projects developed by Emerging Media Lab at UBC Vancouver",
+	"Category": "Emerging Media Lab",
+	"CreatedBy": "Emerging Media Lab",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EML_Core_Unreal",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
