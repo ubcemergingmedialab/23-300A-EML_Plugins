@@ -67,8 +67,8 @@ public class EML_Core_Unity : Editor
     }
 
 
-    [MenuItem("EML/EML Coding Standards")]
-    public static void EML_CodingStandards()
+    [MenuItem("EML/EML Coding Styleguide")]
+    public static void EML_CodingStyleguide()
     {
         Application.OpenURL(@"https://eml.ubc.ca");
     }
