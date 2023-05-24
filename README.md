@@ -121,7 +121,7 @@ This section lists all EML Unreal Engine features and how to utilize them.
 
 <a name="unity-core-features"></a>
 ### 3.2 Features
-The EML Unreal Engine Core plugin can generate the folder structure required by the EML Coding Styleguide.
+This section lists all EML Unreal Engine features and how to utilize them.
 
 <a name="unreal-core-generate-structure"></a>
 #### 3.2.1 Generate EML Project Structure
