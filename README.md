@@ -58,11 +58,11 @@ To generate the EML Project structure:
 1. Click on the 'EML' tab in the main menu.
 2. Click on the 'Generate EML Project Structure' option.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/566abf64-8f0b-429a-92fe-f8415c034192)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/566abf64-8f0b-429a-92fe-f8415c034192)
 
 If successful, you should see an 'EML' folder and all its subfolders in your 'Assets' folder.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/67a8cce0-cc3c-4e66-8d22-2c91b73bac69)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/67a8cce0-cc3c-4e66-8d22-2c91b73bac69)
 
 <a name="unity-core-coding-styleguide"></a>
 #### 2.2.2 EML Coding Styleguide
@@ -72,7 +72,7 @@ To visit the EML Coding Styleguide:
 1. Click on the 'EML' tab in the main menu.
 2. Click on the 'EML Coding Styleguide' option.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/77002be3-da76-4cfb-97b2-8a3fa476de80)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/77002be3-da76-4cfb-97b2-8a3fa476de80)
 
 If successful, your browser will open and take you to the EML coding styleguide.
 
@@ -84,7 +84,7 @@ To visit the EML website:
 1. Click on the 'EML' tab in the main menu.
 2. Click on the 'Contact Information' option.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/8f3d0e05-b6ef-4008-b696-89090bc88568)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/8f3d0e05-b6ef-4008-b696-89090bc88568)
 
 If successful, your browser will open and take you to the EML website.
 
@@ -130,17 +130,17 @@ To generate the EML Project structure:
 2. Click on the 'EML' tab in the main menu.
 3. Click on the 'Generate EML Project Structure' option.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/db471c39-c4c5-4cc9-8fdf-656264566fe3)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/db471c39-c4c5-4cc9-8fdf-656264566fe3)
 
 You will be asked to confirm. **Make sure any unsaved work is saved before continuing.**
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/7a3b8e76-6f81-483f-b395-b73c7932d16c)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/7a3b8e76-6f81-483f-b395-b73c7932d16c)
 
 Clicking 'Yes' will generate the project structure and restart Unreal Engine. 
 
 If successful, you should see an 'EML' folder and all its subfolders in your 'Content' folder.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/be874641-3c3a-471e-af53-4ed9b46c702e)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/be874641-3c3a-471e-af53-4ed9b46c702e)
 
 
 <a name="unreal-core-coding-styleguide"></a>
@@ -151,7 +151,7 @@ To visit the EML Coding Styleguide:
 1. Click on the 'EML' tab in the main menu.
 2. Click on the 'EML Coding Styleguide' option.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/3639aec0-34f4-4208-b3e2-37af552d1db0)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/3639aec0-34f4-4208-b3e2-37af552d1db0)
 
 If successful, your browser will open and take you to the EML coding styleguide.
 
@@ -163,7 +163,7 @@ To visit the EML website:
 1. Click on the 'EML' tab in the main menu.
 2. Click on the 'Contact Information' option.
 
-![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/77797ca8-703b-4fea-9a58-1f6477653a87)
+    ![image](https://github.com/ubcemergingmedialab/23-3000-EML_Plugins/assets/130086654/77797ca8-703b-4fea-9a58-1f6477653a87)
 
 If successful, your browser will open and take you to the EML website.
 
