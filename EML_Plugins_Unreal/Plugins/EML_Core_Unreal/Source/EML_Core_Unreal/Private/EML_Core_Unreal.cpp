@@ -3,6 +3,7 @@
 #include "EML_Core_Unreal.h"
 #include "EML_Core_UnrealStyle.h"
 #include "EML_Core_UnrealCommands.h"
+#include "EML_Core_BPFL.h"
 #include "LevelEditor.h"
 #include "Widgets/Docking/SDockTab.h"
 #include "Widgets/Layout/SBox.h"
@@ -10,7 +11,7 @@
 #include "ToolMenus.h"
 #include "ObjectTools.h"
 #include "AssetToolsModule.h"
-#include "AssetRegistryModule.h"
+#include "AssetRegistry/AssetRegistryModule.h"
 
 
 #include "Kismet/GameplayStatics.h"
@@ -272,7 +273,8 @@ void FEML_Core_UnrealModule::CreateGameInstance()
 	}	
 
 	// Create the package
-	UPackage* Package = CreatePackage(NULL, *PackageName);
+	//UPackage* Package = CreatePackage(NULL, *PackageName);
+	UPackage* Package = CreatePackage(*PackageName);
 
 	// Create the GameInstance blueprint
 	UBlueprint* Blueprint = FKismetEditorUtilities::CreateBlueprint(UGameInstance::StaticClass(), Package, TEXT("EML_GameInstance"), EBlueprintType::BPTYPE_Normal, UBlueprint::StaticClass(), UBlueprintGeneratedClass::StaticClass());
@@ -322,3 +324,4 @@ void FEML_Core_UnrealModule::SetGameInstanceToEMLGameInstance()
 #undef LOCTEXT_NAMESPACE
 
 IMPLEMENT_MODULE(FEML_Core_UnrealModule, EML_Core_Unreal)
+IMPLEMENT_MODULE(UEML_Core_BPFL, EML_CORE_UNREAL_API)
