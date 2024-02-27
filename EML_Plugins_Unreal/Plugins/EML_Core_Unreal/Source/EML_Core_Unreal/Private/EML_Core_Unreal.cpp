@@ -324,4 +324,3 @@ void FEML_Core_UnrealModule::SetGameInstanceToEMLGameInstance()
 #undef LOCTEXT_NAMESPACE
 
 IMPLEMENT_MODULE(FEML_Core_UnrealModule, EML_Core_Unreal)
-IMPLEMENT_MODULE(UEML_Core_BPFL, EML_CORE_UNREAL_API)

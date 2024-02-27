@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "EML_Core_BPFL.h"
-#include "EML_Core_Unreal.h"
 
 FString UEML_Core_BPFL::ConvertByteArrayToString(TArray<uint8> ByteArray)
 {
@@ -17,3 +16,4 @@ FString UEML_Core_BPFL::ConvertByteArrayToString(TArray<uint8> ByteArray)
 
     return ResultString;
 }
+
