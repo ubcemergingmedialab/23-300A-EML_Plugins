@@ -18,8 +18,21 @@
 	"Modules": [
 		{
 			"Name": "EML_Core_Unreal",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "EML_Core_Unreal_Runtime",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
 		}
 	]
 }
