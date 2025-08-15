@@ -1,7 +1,7 @@
 # ⚠️ NOTE TO FUTURE READERS ⚠️ #
 This repository is now archived. This project is abandoned, and I (@Its-pedram) believe that the idea behind this "core" plugin system is flawed.
 
-If you are looking to make your own EML plugin, it would be better if it is an independent project. [UE_DXL](github.com/ubcemergingmedialab/UE_DXL) and [RuntimeAudioImporter](github.com/ubcemergingmedialab/RuntimeAudioImporter) are great examples of this.
+If you are looking to make your own EML plugin, it would be better if it is an independent project. [UE_DXL](https://github.com/ubcemergingmedialab/UE_DXL) and [RuntimeAudioImporter](https://github.com/ubcemergingmedialab/RuntimeAudioImporter) are great examples of this.
 
 # EML Plugins
 This repository contains plugins developed by [UBC Emerging Media Lab](https://eml.ubc.ca) and instructions on how to install them.
